@@ -8,6 +8,7 @@
     "01": "echo \"Loading proyect 01\" && node src/01_dotenv.js",
     "02": "echo \"Loading proyect 02\" && node src/02_API_express.js",
     "03": "echo \"Loading proyect 03\" && node src/03_calculadora.js",
+    "04": "echo \"Loading proyect 04\" && node src/04_mecanografía.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
